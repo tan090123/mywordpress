@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho 	</title>
-	<atom:link href="https://tan090123.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tan090123.github.io/mywordpress</link>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="https://tan090123.github.io/mywordpress/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tan090123.github.io/mywordpress/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 21 Oct 2022 15:02:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Aug 2022 01:36:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,21 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>
-		Phản hồi cho Drawst Ruched &#038; Floral Print High bởi doanminhtan		</title>
-		<link>https://tan090123.github.io/mywordpress/product/drawst-ruched-floral-print-high/#comment-20</link>
-
-		<dc:creator><![CDATA[doanminhtan]]></dc:creator>
-		<pubDate>Fri, 14 Oct 2022 04:22:46 +0000</pubDate>
-		<guid isPermaLink="false">https://tan090123.github.io/mywordpress/?post_type=product&#038;p=1172#comment-20</guid>
-
-					<description><![CDATA[good]]></description>
-			<content:encoded><![CDATA[<p>good</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Bởi: Một người bình luận WordPress		</title>
 		<link>https://tan090123.github.io/mywordpress/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
